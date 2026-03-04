@@ -357,6 +357,8 @@ Raison
 
 * Plus un test couvre large, plus il est lent et fragile.
 * Plus un test est petit, plus il est stable et diagnostique facilement.
+* <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6d98633a-84f7-433c-a5fe-f14b51cddc4f" />
+
 
 ---
 
